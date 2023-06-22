@@ -26,3 +26,6 @@ yay -S texlive-localmanager-git
 
 ### 3.Using Tex on Windows
 可以安装[TexLive](https://www.tug.org/texlive/windows.html)或者[MikTex](https://miktex.org/)
+
+## Manual
+- [一份（不太）简短的 LATEX 2ε 介绍](https://mirrors.tuna.tsinghua.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)
